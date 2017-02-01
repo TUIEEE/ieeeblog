@@ -9,7 +9,7 @@ name: Temple University IEEE Blog
 description: The official blog of Temple University's IEEE Chapter.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/tuieeelogo.jpg
+avatar: http://tuieee.org/ieeeblog/images/tuieeelogo.jpg
 
 #
 # Flags below are optional
